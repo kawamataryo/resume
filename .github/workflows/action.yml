@@ -1,0 +1,39 @@
+name: build pdf
+
+on:
+  push:
+    tags:
+    - 'v*'
+
+jobs:
+  build:
+    name: build pdf and upload release
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+      - run: npm install
+      - name: build pdf
+        run: npm run build:pdf
+      - name: create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./docs/README.pdf
+          asset_name: resume.pdf
+          asset_content_type: application/pdf
