@@ -1,6 +1,6 @@
 # 職務経歴書
 
-# 保有スキル
+## 保有スキル
 
 - JavaScript / TypeScript + Vue.js でのフロントエンド開発
 - Ruby + Ruby on Rails でのサーバーサイド開発
@@ -8,11 +8,12 @@
 - レガシーコードのリファクタリング
 - 勉強会、社内教育のコミュニティ形成
 
-# 技術スタック
+
+## 技術スタック
 
 2020/10/13 現在の経験年数
 
-## 言語
+### 言語
 
 - Ruby（実務 1.5 年、 個人開発 2 年）
 - JavaScript（実務 2.5 年、 個人開発 3 年）
@@ -21,7 +22,7 @@
 - Java（実務 1 年）
 - PHP（個人開発 3 年）
 
-## フレームワーク・その他
+### フレームワーク・その他
 
 - Vue.js（実務 2.5 年、 個人開発 2 年）
 - React（個人開発 2 年）
@@ -31,13 +32,14 @@
 - AWS（実務 1.5 年）
 - GraphQL（実務半年）
 
-# 職務経歴詳細
 
-## 弥生株式会社（2020/07〜現在）
+## 職務経歴詳細
+
+### 弥生株式会社（2020/07〜現在）
 
 ※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず
 
-## 株式会社Misoca（2019/04〜2020/06）
+### 株式会社Misoca（2019/04〜2020/06）
 
 - **クラウド請求書管理サービス Misoca の開発・運用**
     - フロント全コードの JavaScript から TypeScript への置き換え
@@ -46,22 +48,23 @@
     - GraphQL, Vue Composition API を使った新機能の開発
     - 社外・社内勉強会の企画運営
 
-## エムスリー株式会社（2018/02〜2019/03）
+### エムスリー株式会社（2018/02〜2019/03）
 
 - **医療従事者向け総合医療情報サービス m3.com の開発・運用**
     - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
     - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
 
-## 地方消防本部（2012/04〜2017/12）
+### 地方消防本部（2012/04〜2017/12）
 
 - **消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用**
     - Electron + Vue での入力支援システム、  Excel VBA での報告書エラーチェッカー
     - 年間で 4,000 時間の業務時間削減
     - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
 
-# 業務外活動
 
-## OSS活動
+## 業務外活動
+
+### OSS活動
 
 - **月 2PR を目標に気になる OS への PR 作成**
     - Hasura Console の TypeScript 化
@@ -73,7 +76,7 @@
     - [https://github.com/kawamataryo/alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
     - [https://github.com/kawamataryo/schema2type](https://github.com/kawamataryo/schema2type)
 
-## 副業
+### 副業
 
 - **鍼灸院専門の Web デザイン事業**
     - 担当：営業・企画・デザイン・実装
@@ -84,7 +87,7 @@
     - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
     - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う
 
-## 技術記事投稿
+### 技術記事投稿
 
 毎月平均 2 記事以上を投稿。
 
@@ -98,7 +101,7 @@
     - 主に月報、転職エントリーを記載。2020/10 現在 , 8 記事、 500 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
-## 勉強会での登壇
+### 勉強会での登壇
 
 2 か月に 1 回のペースで社内・社外勉強会での LT（主たるものだけ抜粋）
 
@@ -114,7 +117,7 @@
 - **他登壇資料**
     - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
 
-## 勉強会の開催
+### 勉強会の開催
 
 - **社内・社外勉強会の企画・運営**
     - もくテク powerd by Misoca
