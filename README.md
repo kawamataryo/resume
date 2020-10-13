@@ -1,51 +1,71 @@
 # 職務経歴書
 
+## 基本情報
+
+|key|value|
+|---|---|
+|氏名|川俣 涼（Kawamata Ryo）|
+|生年月日|1989/04/25|
+|Twitter|[@KawamataRyo](https://twitter.com/KawamataRyo)|
+|Qiita|[@ryo2132](https://qiita.com/ryo2132)|
+|note|[ryo_kawamata](https://note.com/ryo_kawamata)|
+|Zenn|[ryo_kawamata](https://zenn.dev/ryo_kawamata)|
+|SpeakerDeck|[kawamataryo](https://speakerdeck.com/kawamataryo)|
+
+---
+
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発
-- Ruby + Ruby on Rails でのサーバーサイド開発
-- UT をセットとした保守性の高いコーディング（フロン Jest, バックエンド RSpec）
-- レガシーコードのリファクタリング
-- 勉強会、社内教育のコミュニティ形成
+- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
+- レガシーコードからモダンなフロントエンドへのリファクタリング
+- UT を基本とした保守性と再利用性を意識したコーディング
+- Ruby on Rails でのサーバーサイド開発
+- 勉強会、社内学習のコミュニティ形成
+- アジャイル、スクラムの進行
 
+
+---
 
 ## 技術スタック
 
-※ 2020/10/13 現在
-
 ### 言語
 
-- Ruby（実務 1.5 年、 個人開発 2 年）
-- JavaScript（実務 2.5 年、 個人開発 3 年）
-- TypeScript（実務 1.5 年）
-- Kotlin（実務 1 年）
-- Java（実務 1 年）
-- PHP（個人開発 3 年）
+- TypeScript
+- JavaScript
+- Ruby
+- PHP（副業）
+- Kotlin
+- Java
 
 ### フレームワーク・その他
 
-- Vue.js（実務 2.5 年、 個人開発 2 年）
-- React（個人開発 2 年）
-- Ruby on Rails（実務 1.5 年、 個人開発 2 年）
-- Spring Boot（実務 1 年）
-- Firebase（個人開発 2 年）
-- AWS（実務 1.5 年）
-- GraphQL（実務半年）
+- Vue.js
+- React（個人開発）
+- Gatsby.js（個人開発）
+- Hasura（個人開発）
+- Ruby on Rails
+- Spring Boot
+- Firebase（副業）
+- GraphQL
 
+---
 
 ## 職務経歴詳細
 
 ### 弥生株式会社（2020/07〜現在）
 
-※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず
+※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず。
 
 ### 株式会社Misoca（2019/04〜2020/06）
 
 - **クラウド請求書管理サービス Misoca の開発・運用**
-    - フロント全コードの JavaScript から TypeScript への置き換え
+    - TypeScript + Vue.js での SPA 開発
+    - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
+    - フロント全コードの JavaScript から TypeScript へのリプレイス
     - レガシーコード（jQuery, haml テンプレート）から Vue.js へのリファクタリング
-    - モバイルアプリ向け API の開発
+    - Ruby on Rails モバイルアプリ向け API の開発
     - GraphQL, Vue Composition API を使った新機能の開発
+    - アジャイル、スクラムでの開発
     - 社外・社内勉強会の企画運営
 
 ### エムスリー株式会社（2018/02〜2019/03）
@@ -53,6 +73,7 @@
 - **医療従事者向け総合医療情報サービス m3.com の開発・運用**
     - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
     - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
+    - Storybook の導入、コンポーネントライブラリの作成
 
 ### 地方消防本部（2012/04〜2017/12）
 
@@ -62,19 +83,21 @@
     - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
 
 
+---
+
 ## 業務外活動
 
 ### OSS活動
 
-- **月 2PR を目標に気になる OS への PR 作成**
-    - Hasura Console の TypeScript 化
-    - Gatsby.js の TypeScript 化・ドキュメント翻訳
-    - Vue3 のドキュメント翻訳
 - **type-challenges のメンテナー（日本語化ローカライズを担当）**
     - [https://github.com/type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 - **自作ツールの公開**
     - [https://github.com/kawamataryo/alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
     - [https://github.com/kawamataryo/schema2type](https://github.com/kawamataryo/schema2type)
+- **月 2PR を目標で気になる OSS への PR 作成**
+    - Hasura Console の TypeScript 化・Issue の対応
+    - Gatsby.js の TypeScript 化・ドキュメント翻訳
+    - Vue3 のドキュメント翻訳
 
 ### 副業
 

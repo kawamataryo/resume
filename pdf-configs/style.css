@@ -1,0 +1,40 @@
+
+body {
+  font-size: 12px;
+  font-family: serif;
+}
+
+h1:first-child {
+  margin-top: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+table {
+  font-size: 11px;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  text-align: left;
+  background-color: #ddd;
+}
+
+hr {
+  border-top: 1px solid #ddd;
+  margin: 30px 0px;
+}

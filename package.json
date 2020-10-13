@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "new": "zenn new:article",
-    "dev": "zenn preview"
+    "lint": "textlint *.md",
+    "build:pdf": "md-to-pdf *.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,7 @@
   "homepage": "https://github.com/kawamataryo/zen-articles#readme",
   "dependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
+    "md-to-pdf": "^3.1.1",
     "textlint": "^11.6.3",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-filter-rule-whitelist": "^2.0.0",
@@ -40,5 +40,8 @@
     "textlint-rule-preset-jtf-style": "^2.3.4",
     "textlint-rule-prh": "^5.3.0",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  },
+  "devDependencies": {
+    "husky": "^5.0.0-alpha.6"
   }
 }
