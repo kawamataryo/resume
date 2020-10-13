@@ -11,7 +11,7 @@
 
 ## 技術スタック
 
-2020/10/13 現在の経験年数
+※ 2020/10/13 現在
 
 ### 言語
 
@@ -26,9 +26,9 @@
 
 - Vue.js（実務 2.5 年、 個人開発 2 年）
 - React（個人開発 2 年）
-- Ruby on Rails（実務 1.5 年、 個人開発 3 年）
+- Ruby on Rails（実務 1.5 年、 個人開発 2 年）
 - Spring Boot（実務 1 年）
-- Firebase（個人開発 3 年）
+- Firebase（個人開発 2 年）
 - AWS（実務 1.5 年）
 - GraphQL（実務半年）
 
@@ -89,8 +89,6 @@
 
 ### 技術記事投稿
 
-毎月平均 2 記事以上を投稿。
-
 - **Qiita**
     - 消防士時代から投稿を続け 2020/10 現在、143 記事、 8854LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
@@ -102,8 +100,6 @@
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
-
-2 か月に 1 回のペースで社内・社外勉強会での LT（主たるものだけ抜粋）
 
 - **Remote.vue（2020/07）**
     - Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究
