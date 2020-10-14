@@ -23,6 +23,12 @@ huskyによってcommit前にも自動で実行されます。
 
 ## Build PDF
 
+md-to-pdfでのPDF生成が可能です。
+
+```
+$ yarn build:pdf
+```
+
 tagをつけてコミットするとGitHub Actionsでビルドが走り、Releasesに成果物としてPDFが生成されます。
 
 
