@@ -2,9 +2,9 @@
 
 # Data
 
-Web: https://kawamataryo.github.io/resume/  
-PDF: https://github.com/kawamataryo/resume/releases  
-Markdown: https://github.com/kawamataryo/resume/blob/master/docs/README.md  
+[Web](https://kawamataryo.github.io/resume/)  
+[PDF](https://github.com/kawamataryo/resume/releases)  
+[Markdown](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
 
 # Usage
 
