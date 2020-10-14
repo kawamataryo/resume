@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint docs/README.md/RESUME.md",
-    "build:pdf": "md-to-pdf docs/README.md/RESUME.md --config-file ./pdf-configs/config.js"
+    "lint": "textlint docs/RESUME.md",
+    "build:pdf": "md-to-pdf docs/RESUME.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
     "type": "git",
