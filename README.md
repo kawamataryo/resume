@@ -1,13 +1,15 @@
 # kawamataryoの職務経歴書
 
-# Data
-
 [Web](https://kawamataryo.github.io/resume/)  
 [PDF](https://github.com/kawamataryo/resume/releases)  
 [Markdown](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
 
 # Usage
 
+
+## Edit resume
+
+[docs/README.md](https://github.com/kawamataryo/resume/blob/master/docs/README.md) を編集してください。
 
 ## Lint text
 
@@ -29,7 +31,18 @@ $ yarn lint
 $ yarn build:pdf
 ```
 
-tagをつけてpushするとGitHub Actionsでビルドが走り、Releasesに成果物としてPDFが生成されます。
-
 
 出力されるPDFはCSSで任意のスタイルを設定可能です。詳細は`pdf-configs`をご覧ください。  
+
+## Release
+
+`v**` tagをつけてpushするとGitHub Actionsでビルドが走り、PDFの生成、Releaseの作成、AssetsへPDFの登録が実行されます。
+
+```
+$ git commit -m "add job"
+$ git tag v1.0
+$ git push origin --tags
+```
+
+
+
