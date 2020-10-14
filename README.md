@@ -18,7 +18,7 @@ $ yarn lint
 ```
 
 huskyによってcommit前にも自動で実行されます。  
-設定は`.textlintrc`を修正してください。
+校正のルールは`.textlintrc`をご覧ください。
 
 
 ## Build PDF
@@ -32,4 +32,4 @@ $ yarn build:pdf
 tagをつけてコミットするとGitHub Actionsでビルドが走り、Releasesに成果物としてPDFが生成されます。
 
 
-出力されるPDFにはCSSで任意のスタイルを設定可能です。詳細は`pdf-configs`をご覧ください。  
+出力されるPDFはCSSで任意のスタイルを設定可能です。詳細は`pdf-configs`をご覧ください。  
