@@ -9,7 +9,7 @@ Markdown: https://github.com/kawamataryo/resume/blob/master/docs/README.md
 # Usage
 
 
-## Lint resume
+## Lint text
 
 textlintでの校正が可能です。
 
@@ -21,7 +21,7 @@ huskyによってcommit前にも自動で実行されます。
 設定は`.textlintrc`を修正してください。
 
 
-## build PDF
+## Build PDF
 
 tagをつけてコミットするとGitHub Actionsでビルドが走り、Releasesに成果物としてPDFが生成されます。
 
