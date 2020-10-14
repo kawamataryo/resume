@@ -1,8 +1,7 @@
 {
-  "name": "zen-articles",
+  "name": "resume",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "kawamataryoの職務経歴書",
   "scripts": {
     "lint": "textlint docs/RESUME.md",
     "build:pdf": "md-to-pdf docs/RESUME.md --config-file ./pdf-configs/config.js"
@@ -14,11 +13,8 @@
   "keywords": [],
   "author": "Ryo Kawamata <ba068082@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kawamataryo/zen-articles/issues"
-  },
-  "homepage": "https://github.com/kawamataryo/zen-articles#readme",
-  "dependencies": {
+  "devDependencies": {
+    "husky": "^5.0.0-alpha.6",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
     "md-to-pdf": "^3.1.1",
     "textlint": "^11.6.3",
@@ -40,8 +36,5 @@
     "textlint-rule-preset-jtf-style": "^2.3.4",
     "textlint-rule-prh": "^5.3.0",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
-  },
-  "devDependencies": {
-    "husky": "^5.0.0-alpha.6"
   }
 }
