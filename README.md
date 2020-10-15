@@ -1,6 +1,7 @@
 # kawamataryoの職務経歴書
-![build pdf](https://github.com/kawamataryo/resume/workflows/build%20pdf/badge.svg)
-![create issue](https://github.com/kawamataryo/resume/workflows/create%20issue/badge.svg)
+![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)
+![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)
+![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)
 
 
 - [GitHub Pages](https://kawamataryo.github.io/resume/)  
