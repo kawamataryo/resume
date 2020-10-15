@@ -131,7 +131,7 @@
     - 入門 Hasura
     - [https://speakerdeck.com/kawamataryo/ru-men-hasura](https://speakerdeck.com/kawamataryo/ru-men-hasura)
 - **もくテク（2019/10）**
-    - ここまで出来るよ FIrestore セキュリティルール
+    - ここまで出来るよ Firestore セキュリティルール
     - [https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru](https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru)
 - **他登壇資料**
     - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
