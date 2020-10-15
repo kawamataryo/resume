@@ -4,12 +4,7 @@
 - [PDF](https://github.com/kawamataryo/resume/releases)  
 - [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
 
-## Usage
-
-
-### Edit resume
-
-[docs/README.md](https://github.com/kawamataryo/resume/blob/master/docs/README.md) を編集してください。
+## Features
 
 ### Lint text
 
@@ -34,7 +29,7 @@ $ yarn build:pdf
 
 出力されるPDFはCSSで任意のスタイルを設定可能です。`pdf-configs/style.css`を編集してください。  
 
-### Release
+### Create release
 
 `v**` tagをつけてpushするとGitHub Actionsでビルドが走り、PDFの生成、Releaseの作成、AssetsへPDFの登録が実行されます。
 
@@ -44,5 +39,10 @@ $ git tag v1.0
 $ git push origin --tags
 ```
 
+### Create issue
+
+GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
+
+期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
 
 
