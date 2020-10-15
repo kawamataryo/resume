@@ -1,4 +1,5 @@
 # kawamataryoの職務経歴書
+![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)
 ![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)
 ![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)
 ![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)
