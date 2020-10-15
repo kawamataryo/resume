@@ -1,4 +1,7 @@
 # kawamataryoの職務経歴書
+![build pdf](https://github.com/kawamataryo/resume/workflows/build%20pdf/badge.svg)
+![create issue](https://github.com/kawamataryo/resume/workflows/create%20issue/badge.svg)
+
 
 - [GitHub Pages](https://kawamataryo.github.io/resume/)  
 - [PDF](https://github.com/kawamataryo/resume/releases)  
