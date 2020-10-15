@@ -9,19 +9,19 @@
 
 ## Features
 
-### Lint text
+### 💅 Lint text
 
-[textlint](https://github.com/textlint/textlint) での校正が可能です。
+[textlint](https://github.com/textlint/textlint) での自動校正が可能です。
 
 ```
-$ yarn lint
+$ yarn lint --fix
 ```
 
 [husky](https://github.com/typicode/husky) によってcommit前にも自動で実行されます。  
 校正のルールは`.textlintrc`に記載しています。
 
 
-### Build PDF
+### 📝 Build PDF
 
 [md-to-pdf](https://www.npmjs.com/package/md-to-pdf) でのPDF生成が可能です。
 
@@ -32,7 +32,7 @@ $ yarn build:pdf
 
 出力されるPDFはCSSで任意のスタイルを設定可能です。`pdf-configs/style.css`を編集してください。  
 
-### Create release
+### 🛠 Create release
 
 `v**` tagをつけてpushするとGitHub Actionsでビルドが走り、PDFの生成、Releaseの作成、AssetsへPDFの登録が実行されます。
 
@@ -42,7 +42,7 @@ $ git tag v1.0
 $ git push origin --tags
 ```
 
-### Create issue
+### 📆 Remind update
 
 GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
