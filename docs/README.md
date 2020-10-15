@@ -89,7 +89,7 @@
 
 ### OSS活動
 
-- **type-challenges のメンテナー（日本語化ローカライズを担当）**
+- **type-challenges のメンバー（日本語ローカライズを担当）**
     - [https://github.com/type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 - **自作ツールの公開**
     - [https://github.com/kawamataryo/alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
