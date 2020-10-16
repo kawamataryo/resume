@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kawamataryo/zen-articles.git"
+    "url": "git+ssh://git@github.com/kawamataryo/resume.git"
   },
   "keywords": [],
   "author": "Ryo Kawamata <ba068082@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "husky": "^5.0.0-alpha.6",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",

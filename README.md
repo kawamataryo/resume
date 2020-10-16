@@ -1,4 +1,4 @@
-# kawamataryo's resume / C.V.
+# kawamataryo's resume
 
 ![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)
 ![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)
