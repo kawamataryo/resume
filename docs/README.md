@@ -58,29 +58,44 @@
 
 ### 株式会社Misoca（2019/04〜2020/06）
 
-- **クラウド請求書管理サービス Misoca の開発・運用**
+クラウド請求書管理サービス Misoca の開発・運用。
+- **プロジェクト規模：**
+    - 平均 2〜4 人チームでのアジャイル開発
+- **役割：**
+    - 機能検討（インセプションデッキ作成 etc）、設計、コーディング、レビュー
+- **プロジェクト詳細：**
     - TypeScript + Vue.js での SPA 開発
     - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
     - フロント全コードの JavaScript から TypeScript へのリプレイス
     - レガシーコード（jQuery, haml テンプレート）から Vue.js へのリファクタリング
     - Ruby on Rails モバイルアプリ向け API の開発
     - GraphQL, Vue Composition API を使った新機能の開発
-    - アジャイル、スクラムでの開発
     - 社外・社内勉強会の企画運営
 
 ### エムスリー株式会社（2018/02〜2019/03）
 
-- **医療従事者向け総合医療情報サービス m3.com の開発・運用**
+医療従事者向け総合医療情報サービス m3.com の開発・運用。
+- **プロジェクト規模：**
+    - 平均 1〜2 人チームでの開発（後半スクラムの導入）
+- **役割：**
+    - コーディング、レビュー、チームビルディング
+- **プロジェクト詳細：**
     - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
     - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
     - Storybook の導入、コンポーネントライブラリの作成
+    - スクラムの導入
 
 ### 地方消防本部（2012/04〜2017/12）
 
-- **消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用**
-    - Electron + Vue での入力支援システム、  Excel VBA での報告書エラーチェッカー
-    - 年間で 4,000 時間の業務時間削減
-    - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
+消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
+- **プロジェクト規模：**
+    - 個人開発
+- **役割：**
+    - 機能検討、設計、デザイン、コーディング、導入交渉
+- **プロジェクト詳細：**
+    - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
+        - 年間で 4,000 時間の業務時間削減に貢献
+        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
 
 
 ---
