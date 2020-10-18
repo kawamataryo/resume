@@ -23,7 +23,6 @@
 - 勉強会、社内学習のコミュニティ形成
 - アジャイル、スクラムの進行
 
-
 ---
 
 ## 技術スタック
@@ -68,7 +67,6 @@
     - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
     - フロント全コードの JavaScript から TypeScript へのリプレイス
     - レガシーコード（jQuery）から Vue.js へのリファクタリング
-    - Ruby on Rails モバイルアプリ向け API の開発
     - GraphQL, Vue Composition API を使った新機能の開発
     - 社外・社内勉強会の企画運営
 
