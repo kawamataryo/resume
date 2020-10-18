@@ -28,7 +28,7 @@ $ yarn lint --fix
 校正のルールは`.textlintrc`に記載しています。
 
 
-### 📝 Convert MD to PDF
+### 📝 Convert Markdown to PDF
 
 [md-to-pdf](https://www.npmjs.com/package/md-to-pdf) でのPDF生成が可能です。
 

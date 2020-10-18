@@ -26,7 +26,7 @@ proofreading rules are set with `.textlintrc`.
 
 
 
-### 📝 Convert MD to PDF
+### 📝 Convert Markdown to PDF
 
 You can generate PDF with [md-to-pdf](https://www.npmjs.com/package/md-to-pdf).
 
