@@ -125,13 +125,13 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2020/10 現在、143 記事、 8854LGTM
+    - 消防士時代から投稿を続け 2020/12 現在、143 記事、 9360LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2020/10 現在 5 記事、 90LIKE
+    - サービススタートから投稿を開始。2020/12 現在 20 記事、 620LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
-    - 主に月報、転職エントリーを記載。2020/10 現在 , 8 記事、 500 いいね
+    - 主に月報、転職エントリーを記載。2020/12 現在 , 12 記事、 500 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
@@ -157,6 +157,13 @@
 - **茨城県水戸市にて勉強会を企画・運営**
     - 水戸エンジニア勉強会（開催回数 17 回、 メンバー52 人）
     - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
+
+### その他
+
+- **Podcast**
+  - [しがないラジオ sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活](https://shiganai.org/ep/sp91-KawamataRyo)
+- **YouTube**
+  - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
 
 ---
 
