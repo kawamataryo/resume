@@ -102,10 +102,14 @@
 ### OSS活動
 
 - **type-challenges のメンバー（日本語ローカライズを担当）**
-    - [https://github.com/type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+    - [type-challenges](https://github.com/type-challenges/type-challenges)
 - **自作ツールの公開**
-    - [https://github.com/kawamataryo/alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
-    - [https://github.com/kawamataryo/schema2type](https://github.com/kawamataryo/schema2type)
+    - [alfred-zenn-posts](https://github.com/kawamataryo/alfred-zenn-posts)
+    - [alfred-gyazou-uploader](https://github.com/kawamataryo/alfred-gyazo-uploader)
+    - [alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
+    - [alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
+    - [blog-report-bot](https://github.com/kawamataryo/blog-report-bot)
+    - [schema2type](https://github.com/kawamataryo/schema2type)
 - **月 2PR を目標で気になる OSS への PR 作成**
     - Hasura Console の TypeScript 化・Issue の対応
     - Gatsby.js の TypeScript 化・ドキュメント翻訳
@@ -125,13 +129,13 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2020/12 現在、143 記事、 9360LGTM
+    - 消防士時代から投稿を続け 2021/01 現在、143 記事、 9457LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2020/12 現在 20 記事、 620LIKE
+    - サービススタートから投稿を開始。2021/01 現在 23 記事、 687LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
-    - 主に月報、転職エントリーを記載。2020/12 現在 , 12 記事、 500 いいね
+    - 主に月報を記載。2020/01 現在 , 13 記事、 521 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
@@ -172,4 +176,7 @@
 - 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - フロントエンドの開発が比較的得意ですが、バックエンド、インフラ面への興味もあります
+
+## 希望条件
+- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたものをただ作るのではなく、機能要件に対しても一緒に考えていける組織だと良いです
