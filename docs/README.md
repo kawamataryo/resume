@@ -19,7 +19,7 @@
 - JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
 - UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails でのサーバーサイド開発
+- Ruby on Rails, Django でのサーバーサイド開発
 - 勉強会、社内学習のコミュニティ形成
 - アジャイル、スクラムの進行
 
@@ -32,6 +32,7 @@
 - TypeScript
 - JavaScript
 - Ruby
+- Python
 - PHP（副業）
 - Kotlin
 - Java
@@ -51,7 +52,14 @@
 
 ## 職務経歴詳細
 
-### 弥生株式会社（2020/07〜現在）
+### LAPRAS式会社（2021/03〜現在）
+AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
+- **プロジェクト規模：**
+    - 平均 5〜9 人チームでのスクラム開発
+- **プロジェクト詳細：**
+    - Vue.js での SPA 開発
+    - Python, Django での API 開発
+### 弥生株式会社（2020/07〜2021/02）
 
 ※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず。
 
@@ -129,17 +137,20 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2021/01 現在、143 記事、 9457LGTM
+    - 消防士時代から投稿を続け 2021/04 現在、143 記事、 10,293LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2021/01 現在 23 記事、 687LIKE
+    - サービススタートから投稿を開始。2021/04 現在 43 記事、 1,438LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
-    - 主に月報を記載。2020/01 現在 , 13 記事、 521 いいね
+    - 主に月報を記載。2020/04 現在 , 18 記事、 886 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
 
+- **iCARE Dev Meetup（2021/03/17）**
+    - Vue.js 状態管理の選択肢 - その Vuex 本当に必要ですか -
+    - [https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options](https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options)
 - **Remote.vue（2020/07）**
     - Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究
     - [https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in](https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in)
@@ -159,7 +170,7 @@
     - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
     - Go ではじめるインタプリンタ輪読回
 - **茨城県水戸市にて勉強会を企画・運営**
-    - 水戸エンジニア勉強会（開催回数 17 回、 メンバー52 人）
+    - 水戸エンジニア勉強会（開催回数 20 回、 メンバー68 人）
     - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
 
 ### その他
