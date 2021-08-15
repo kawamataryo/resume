@@ -127,5 +127,6 @@
     "abbr-within-parentheses": true,
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "footnote-order": true
+    "ja-technical-writing/max-kanji-continuous-len": false,
   }
 }
