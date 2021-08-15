@@ -53,7 +53,8 @@
         ],
         "allowCommonCase": true
       },
-      "no-unmatched-pair": true
+      "no-unmatched-pair": true,
+      "max-kanji-continuous-len": false
     },
     "preset-jtf-style": {
       "1.1.1.本文": true,
