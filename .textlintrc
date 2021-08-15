@@ -53,7 +53,8 @@
         ],
         "allowCommonCase": true
       },
-      "no-unmatched-pair": true
+      "no-unmatched-pair": true,
+      "max-kanji-continuous-len": false
     },
     "preset-jtf-style": {
       "1.1.1.本文": true,
@@ -127,6 +128,5 @@
     "abbr-within-parentheses": true,
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "footnote-order": true
-    "ja-technical-writing/max-kanji-continuous-len": false,
   }
 }
