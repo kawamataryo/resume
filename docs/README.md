@@ -124,9 +124,12 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 ## 業務外活動
 
 ### OSS活動
+
+#### 主要リポジトリ
+
 <table>
-  <thead align="center">
-    <tr border: none;>
+  <thead>
+    <tr>
       <td><b>Projects</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
