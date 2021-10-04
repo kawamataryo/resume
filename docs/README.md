@@ -29,7 +29,7 @@
 - UT を基本とした保守性と再利用性を意識したコーディング
 - Ruby on Rails, Django でのサーバーサイド開発
 - 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行
+- アジャイル、スクラムの進行補助
 
 ---
 
@@ -67,13 +67,17 @@
 ### LAPRAS株式会社（2021/03〜現在）
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 - **プロジェクト規模：**
-    - 平均 5〜9 人チームでのスクラム開発
+    - 平均 3〜5 人チームでのスクラム開発
 - **プロジェクト詳細：**
     - Vue.js での SPA 開発
     - Python, Django での API 開発
     - ライブラリアップデートの仕組み作り
-    - VuePress + esa によるドキュメントサイトの構築
     - メールアドレス認証機能の構築
+    - VuePress + esa によるドキュメントサイトの構築
+- **その他：**
+    - フロントエンド改善Issueの整理・チームでの取り組み
+    - フロントエンド勉強会の主催
+    - エンジニア採用補助
 
 ### 弥生株式会社（2020/07〜2021/02）
 
@@ -118,7 +122,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
         - 年間で 4,000 時間の業務時間削減に貢献
         - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
 
-
 ---
 
 ## 業務外活動
@@ -144,13 +147,34 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/v-change-tags-order"><b>V Change Tags Order</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/resume"><b>Resume</b></a></td>
@@ -172,13 +196,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/alfred-gyazo-uploader"><b>Alfred Gyazo Uploader</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -205,17 +222,20 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2021/08 現在、143 記事、 16,364LGTM
+    - 消防士時代から投稿を続け 2021/10 現在、143 記事、 16,624LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2021/08 現在 82 記事、 2,576LIKE
+    - サービススタートから投稿を開始。2021/10 現在 65 記事、 3,097LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
-    - 主に月報を記載。2020/04 現在 , 20 記事、 250 いいね
+    - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
 
+- **ジャムジャム Jamstack!!（2021/09/30）**
+    - esa + VuePress で Jamstack なドキュメントサイトを作る
+    - [https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa](https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa)
 - **iCARE Dev Meetup（2021/03/17）**
     - Vue.js 状態管理の選択肢 - その Vuex 本当に必要ですか -
     - [https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options](https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options)
@@ -238,7 +258,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
     - Go ではじめるインタプリンタ輪読回
 - **茨城県水戸市にて勉強会を企画・運営**
-    - 水戸エンジニア勉強会（開催回数 20 回、 メンバー68 人）
+    - 水戸エンジニア勉強会（開催回数 24 回、 メンバー 73 人）
     - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
 
 ### その他
