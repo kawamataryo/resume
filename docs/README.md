@@ -67,15 +67,16 @@
 ### LAPRAS株式会社（2021/03〜現在）
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 - **プロジェクト規模：**
-    - 平均 3〜5 人チームでのスクラム開発
+    - 平均 2〜5 人チームでのスクラム開発
 - **プロジェクト詳細：**
     - Vue.js での SPA 開発
     - Python, Django での API 開発
     - ライブラリアップデートの仕組み作り
     - メールアドレス認証機能の構築
     - VuePress + esa によるドキュメントサイトの構築
+    - 職務経歴書Import機能の実装
 - **その他：**
-    - フロントエンド改善 Issue の整理・チームでの取り組み
+    - フロントエンド改善活動（改善チームの組成、課題の整理・実装）
     - フロントエンド勉強会の主催
     - エンジニア採用補助
 
@@ -126,7 +127,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 ## 業務外活動
 
-### OSS活動
+### OSS・個人開発活動
 
 #### 主要リポジトリ
 
@@ -147,6 +148,13 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
@@ -190,6 +198,13 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/tell-me-bot"><b>Tell me bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
       <td><a href="https://github.com/kawamataryo/schema2type"><b>Schema2type</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
@@ -222,10 +237,10 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2021/10 現在、143 記事、 16,624LGTM
+    - 消防士時代から投稿を続け 2022/01 現在、143 記事、 17,125LGTM
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2021/10 現在 65 記事、 3,097LIKE
+    - サービススタートから投稿を開始。2022/01 現在 70 記事、 3,700LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
     - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
@@ -281,3 +296,4 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 ## 希望条件
 - 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
+- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです。
