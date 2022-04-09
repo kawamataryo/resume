@@ -1,3 +1,8 @@
+---
+title: kawamataryo resume/職務経歴書
+description: 川俣 涼 の 職務経歴書です
+---
+
 # 職務経歴書
 
 ## 基本情報
@@ -77,6 +82,7 @@ AIヘッドハンティングサービスLAPRAS SCOUTの開発に従事。
     - メールアドレス認証機能の構築
     - VuePress + esa によるドキュメントサイトの構築
     - 職務経歴書 Import 機能の実装
+    - Portfolio 編集モードの実装
 - **その他：**
     - フロントエンド改善活動（改善チームの組成、課題の整理・実装）
     - フロントエンド勉強会の主催
@@ -137,82 +143,89 @@ AIヘッドハンティングサービスLAPRAS SCOUTの開発に従事。
   <thead>
     <tr>
       <td><b>Projects</b></td>
+      <td><b>Lang / FW</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
       <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/v-change-tags-order"><b>V Change Tags Order</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/resume"><b>Resume</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/kawamataryo/alfred-imagemin"><b>Alfred Imagemin</b></a></td>
+      <td><img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/tell-me-bot"><b>Tell me bot</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/kawamataryo/copy-git-link"><b>copy-git-link</b></a></td>
+      <td><img alt="Kotlin" src="https://img.shields.io/badge/-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/kawamataryo/schema2type"><b>Schema2type</b></a></td>
+      <td><img alt="Ruby" src="https://img.shields.io/badge/-CC342D?style=flat-square&logo=Ruby&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/kawamataryo/8bitdo_zero2"><b>8bitdo_zero2</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -220,7 +233,7 @@ AIヘッドハンティングサービスLAPRAS SCOUTの開発に従事。
 #### その他
 - **type-challenges のメンバー（日本語ローカライズを担当）**
     - [type-challenges](https://github.com/type-challenges/type-challenges)
-- **月 2PR を目標で気になる OSS への PR 作成**
+- **OSS への PR 作成**
     - Hasura Console の TypeScript 化・Issue の対応
     - Gatsby.js の TypeScript 化・ドキュメント翻訳
     - Vue3 のドキュメント翻訳
@@ -291,7 +304,7 @@ AIヘッドハンティングサービスLAPRAS SCOUTの開発に従事。
 - 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 個人・会社で作ったサービスで身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します
+- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します
 ---
 
 ## 希望条件
