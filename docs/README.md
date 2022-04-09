@@ -286,7 +286,7 @@ AIヘッドハンティングサービスLAPRAS SCOUTの開発に従事。
 - **社内・社外勉強会の企画・運営**
     - もくテク powerd by Misoca
     - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-    - Go ではじめるインタプリンタ輪読回
+    - Go ではじめるインタプリタ輪読回
 - **茨城県水戸市にて勉強会を企画・運営**
     - 水戸エンジニア勉強会（開催回数 24 回、 メンバー 73 人）
     - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
