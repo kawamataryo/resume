@@ -1,6 +1,5 @@
 ---
 title: kawamataryo resume/職務経歴書
-description: 川俣 涼 の 職務経歴書です
 ---
 
 # 職務経歴書
