@@ -26,6 +26,7 @@
 
 - JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
+- フロントエンド開発基盤の整備（ビジュアルリグレッションテスト、パフォーマンス計測の導入など）
 - UT を基本とした保守性と再利用性を意識したコーディング
 - Ruby on Rails, Django でのサーバーサイド開発
 - 勉強会、社内学習のコミュニティ形成
@@ -66,7 +67,7 @@
 
 ### LAPRAS株式会社（2021/03〜現在）
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
-開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演や、フルリモート環境で気軽に質問できる Slack チャンネルの作成や bot 開発などを通して、良い組織作りへの貢献も行っている。
+開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
 
 - **プロジェクト規模：**
     - 平均 2〜5 人チームでのスクラム開発
@@ -78,8 +79,10 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
     - VuePress + esa によるドキュメントサイトの構築
     - 職務経歴書 Import 機能の実装
     - Portfolio 編集モードの実装
+    - 職務経歴書可視化ツール（Skills And Wills Map）の開発
 - **その他：**
-    - フロントエンド改善活動（改善チームの組成、課題の整理・実装）
+    - フロントエンド改善チームのリード（改善チームの組成、課題の整理・実装）
+    - フロントエンド開発基盤の構築（ビジュアルリグレッションテスト、パフォーマンス計測基盤の導入）
     - フロントエンド勉強会の主催
     - エンジニア採用（採用広報、選考活動）
 
@@ -146,6 +149,13 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
       <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
@@ -153,11 +163,18 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>suppress ts errors</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
@@ -180,12 +197,12 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+	  <tr>
+      <td><a href="https://github.com/kawamataryo/copy-python-path"><b>Copy Python Path</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/kawamataryo/alfred-imagemin"><b>Alfred Imagemin</b></a></td>
@@ -215,13 +232,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/8bitdo_zero2"><b>8bitdo_zero2</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/8bitdo_zero2?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 
@@ -229,6 +239,9 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 - **type-challenges のメンバー（日本語ローカライズを担当）**
     - [type-challenges](https://github.com/type-challenges/type-challenges)
 - **OSS への PR 作成**
+    - Raycast 拡張機能の開発
+      - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
+      - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
     - Hasura Console の TypeScript 化・Issue の対応
     - Gatsby.js の TypeScript 化・ドキュメント翻訳
     - Vue3 のドキュメント翻訳
@@ -237,8 +250,8 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 
 - **鍼灸院専門の Web デザイン事業**
     - 担当：営業・企画・デザイン・実装
-    - 使用技術：PHP, JavaScript, Wordpress, Nuxt.js, GraphCMS
-    - 妻の仕事（鍼灸師）のホームページを作成したことでスタート。口コミ、web サイト経由で受注。契約交渉から実装・保守管理まで全てを行う
+    - 使用技術：PHP, JavaScript, WordPress, Nuxt.js, GraphCMS
+    - 妻の仕事（鍼灸師）のホームページを作成したことでスタート。口コミ、web サイト経由で受注。契約交渉から実装・保守管理まですべてを行う
 - **ソフトウェア受託開発**
     - 担当：実装
     - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
@@ -246,45 +259,44 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 
 ### 技術記事投稿
 
-- **Qiita**
-    - 消防士時代から投稿を続け 2022/01 現在、143 記事、 17,125LGTM
-    - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **Zenn**
-    - サービススタートから投稿を開始。2022/01 現在 70 記事、 3,700LIKE
+    - サービススタートから投稿を開始。2022/10 現在 88 記事、 5,500LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
+- **Qiita**
+    - 消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM
+    - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **note**
     - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 ### 勉強会での登壇
 
+- **Frontend LT 回（2022/06/15）**
+  - [suppress-ts-errors を使って TypeScriptの型チェックを漸進的に強化する](https://speakerdeck.com/kawamataryo/introducing-suppress-ts-errors)
+- **iCARE Dev Meetup (2022/04/20）**
+  - [OSS活動ことはじめ 〜OSS活動への壁と乗り越え方〜](https://speakerdeck.com/kawamataryo/begin-oss-activities)
 - **ジャムジャム Jamstack!!（2021/09/30）**
-    - esa + VuePress で Jamstack なドキュメントサイトを作る
-    - [https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa](https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa)
+  - [esa + VuePress で Jamstack なドキュメントサイトを作る](https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa)
 - **iCARE Dev Meetup（2021/03/17）**
-    - Vue.js 状態管理の選択肢 - その Vuex 本当に必要ですか -
-    - [https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options](https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options)
+  - [Vue.js 状態管理の選択肢 - その Vuex 本当に必要ですか -](https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options)
 - **Remote.vue（2020/07）**
-    - Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究
-    - [https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in](https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in)
+  - [Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究](https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in)
 - **もくテク（2019/12）**
-    - 入門 Hasura
-    - [https://speakerdeck.com/kawamataryo/ru-men-hasura](https://speakerdeck.com/kawamataryo/ru-men-hasura)
+  - [入門 Hasura](https://speakerdeck.com/kawamataryo/ru-men-hasura)
 - **もくテク（2019/10）**
-    - ここまで出来るよ Firestore セキュリティルール
-    - [https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru](https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru)
+  - [ここまで出来るよ Firestore セキュリティルール](https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru)
 - **他登壇資料**
-    - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+  - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
 
 ### 勉強会の開催
 
+- **茨城県水戸市にて勉強会を企画・運営**
+    - 水戸エンジニア勉強会（開催回数 37 回、 メンバー 86 人）
+    - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
 - **社内・社外勉強会の企画・運営**
     - もくテク powerd by Misoca
     - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-    - Go ではじめるインタプリンタ輪読回
-- **茨城県水戸市にて勉強会を企画・運営**
-    - 水戸エンジニア勉強会（開催回数 24 回、 メンバー 73 人）
-    - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
+    - Go ではじめるインタプリタ輪読回
 
 ### その他
 
@@ -300,6 +312,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します
+
 ---
 
 ## 希望条件
