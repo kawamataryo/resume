@@ -295,6 +295,8 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
   - [しがないラジオ sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活](https://shiganai.org/ep/sp91-KawamataRyo)
 - **YouTube**
   - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
+- **JobPics**
+- - [消防士からエンジニアへ、究極の「未経験転職」3つのポイント | JobPicks](https://job.newspicks.com/articles/849)
 
 ---
 
