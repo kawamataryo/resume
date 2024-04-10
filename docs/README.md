@@ -69,6 +69,8 @@
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
 
+※ 2023/03〜2024/03まで育児休業を取得
+
 - **プロジェクト規模：**
     - 平均 2〜5 人チームでのスクラム開発
 - **プロジェクト詳細：**
@@ -77,9 +79,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
     - ライブラリアップデートの仕組み作り
     - メールアドレス認証機能の構築
     - VuePress + esa によるドキュメントサイトの構築
-    - 職務経歴書 Import 機能の実装
-    - Portfolio 編集モードの実装
-    - 職務経歴書可視化ツール（Skills And Wills Map）の開発
+    - E2Eテストの環境整備
 - **その他：**
     - フロントエンド改善チームのリード（改善チームの組成、課題の整理・実装）
     - フロントエンド開発基盤の整備（ビジュアルリグレッションテスト、パフォーマンス計測基盤の導入など）
@@ -154,6 +154,13 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>sky-follower-bridge</b></a></td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-61DBFB?style=flat-square&logo=react&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
@@ -235,16 +242,15 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
   </tbody>
 </table>
 
-#### その他
+#### その他 OSS への後見
 - **type-challenges のメンバー（日本語ローカライズを担当）**
     - [type-challenges](https://github.com/type-challenges/type-challenges)
-- **OSS への PR 作成**
-    - Raycast 拡張機能の開発
-      - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
-      - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
-    - Hasura Console の TypeScript 化・Issue の対応
-    - Gatsby.js の TypeScript 化・ドキュメント翻訳
-    - Vue3 のドキュメント翻訳
+- Raycast 拡張機能の開発
+  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
+  - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
+- Hasura Console の TypeScript 化・Issue の対応
+- Gatsby.js の TypeScript 化・ドキュメント翻訳
+- Vue3 のドキュメント翻訳
 
 ### 副業
 
@@ -260,7 +266,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 ### 技術記事投稿
 
 - **Zenn**
-    - サービススタートから投稿を開始。2022/10 現在 88 記事、 5,500LIKE
+    - サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE
     - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **Qiita**
     - 消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM
@@ -269,29 +275,14 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
     - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
     - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
-### 勉強会での登壇
+### 登壇履歴
 
-- **Frontend LT 回（2022/06/15）**
-  - [suppress-ts-errors を使って TypeScriptの型チェックを漸進的に強化する](https://speakerdeck.com/kawamataryo/introducing-suppress-ts-errors)
-- **iCARE Dev Meetup (2022/04/20）**
-  - [OSS活動ことはじめ 〜OSS活動への壁と乗り越え方〜](https://speakerdeck.com/kawamataryo/begin-oss-activities)
-- **ジャムジャム Jamstack!!（2021/09/30）**
-  - [esa + VuePress で Jamstack なドキュメントサイトを作る](https://speakerdeck.com/kawamataryo/build-jamstack-site-with-vuepress-and-esa)
-- **iCARE Dev Meetup（2021/03/17）**
-  - [Vue.js 状態管理の選択肢 - その Vuex 本当に必要ですか -](https://speakerdeck.com/kawamataryo/vue-dot-js-state-management-options)
-- **Remote.vue（2020/07）**
-  - [Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究](https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in)
-- **もくテク（2019/12）**
-  - [入門 Hasura](https://speakerdeck.com/kawamataryo/ru-men-hasura)
-- **もくテク（2019/10）**
-  - [ここまで出来るよ Firestore セキュリティルール](https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru)
-- **他登壇資料**
-  - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+- [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
 
-### 勉強会の開催
+### 勉強会の主催
 
 - **茨城県水戸市にて勉強会を企画・運営**
-    - 水戸エンジニア勉強会（開催回数 37 回、 メンバー 86 人）
+    - Ibaraki.dev（開催回数 50 回、 メンバー 102 人）
     - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
 - **社内・社外勉強会の企画・運営**
     - もくテク powerd by Misoca
@@ -308,14 +299,14 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 ---
 
 ## 意欲・興味
-- 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します
+- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
 
 ---
 
 ## 希望条件
 - 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
+- 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
 - 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
