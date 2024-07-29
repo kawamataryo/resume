@@ -34,6 +34,10 @@ layout: doc
 
 ## 技術スタック
 
+<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+
+<div>
+
 ### 言語
 
 |言語|業務経験|
@@ -46,6 +50,9 @@ layout: doc
 |<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
 |<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
 
+</div>
+
+<div>
 
 ### フレームワーク・その他
 
@@ -62,23 +69,27 @@ layout: doc
 |<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
 
+</div>
+</div>
+
 ## 保有スキル
 
 - TypeScript, React, Vue.js でのフロントエンド開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測）
+- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測 etc.）
 - ユニットテストを基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
+- Railsライクフレームワークを使ったサーバーサイド開発
 - 勉強会、社内学習のコミュニティ形成
 - アジャイル、スクラム開発の進行
 - 未経験技術への迅速なキャッチアップ、アウトプット
 
 ## 意欲・興味
 
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
+- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
 - 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
 - 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
+- どうしたら使いやすいデザインになるか、ユーザーの視点に立って考えることが好きです
+- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
 
 ## 就業条件

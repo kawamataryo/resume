@@ -9,6 +9,15 @@ h1:first-child {
   margin-top: 0;
   padding-top: 0;
   text-align: center;
+  border-top: none;
+}
+
+h2 {
+  padding-top: 40px;
+}
+
+h2:first-child {
+  padding-top: 20px;
 }
 
 table {
