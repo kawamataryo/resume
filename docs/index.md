@@ -13,8 +13,6 @@ layout: doc
 |居住地|茨城県|
 |最終学歴|立命館大学経営学部卒|
 
----
-
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -25,8 +23,6 @@ layout: doc
   <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
----
-
 ## 職務経歴（サマリー）
 
 |会社名|期間|業務内容|
@@ -35,8 +31,6 @@ layout: doc
 |[株式会社Misoca/弥生株式会社](https://www.yayoi-kk.co.jp/)|2019/04〜2021/02|クラウド請求書管理サービス Misoca の開発・運用|
 |[エムスリー株式会社](https://corporate.m3.com/)|2018/02〜2019/03|医療従事者向け総合医療情報サービス m3.com の開発・運用|
 |水戸市消防本部|2012/04〜2017/12|消防士として消防活動、救急活動|
-
----
 
 ## 技術スタック
 
@@ -68,8 +62,6 @@ layout: doc
 |<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
 
----
-
 ## 保有スキル
 
 - TypeScript, React, Vue.js でのフロントエンド開発・設計
@@ -81,8 +73,6 @@ layout: doc
 - アジャイル、スクラム開発の進行
 - 未経験技術への迅速なキャッチアップ、アウトプット
 
----
-
 ## 意欲・興味
 
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
@@ -91,13 +81,9 @@ layout: doc
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
 - 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
 
----
-
 ## 就業条件
 
 - 勤務形態: フルリモートワーク（月数回程度の出社は可）
-
----
 
 ## 職務経歴（詳細）
 
@@ -191,8 +177,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
     - 年間で 4,000 時間の業務時間削減に貢献
     - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
-
----
 
 ## 業務外活動
 
