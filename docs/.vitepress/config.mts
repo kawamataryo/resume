@@ -6,10 +6,10 @@ export default defineConfig({
   description: "Kawamata Ryoの職務経歴書",
   base: '/resume/',
   head: [
-    ['meta', { property: 'og:image', content: 'https://github.com/kawamataryo/resume/images/og.png' }],
+    ['meta', { property: 'og:image', content: 'https://kawamataryo.github.io/resume/images/og.png' }],
     ['meta', { property: 'og:title', content: 'CV of Kawamata Ryo' }],
     ['meta', { property: 'og:description	', content: 'SWE 川俣 涼の職務経歴書' }],
-    ['meta', { property: 'og:url	', content: 'https://github.com/kawamataryo/resume' }]
+    ['meta', { property: 'og:url	', content: 'https://kawamataryo.github.io/resume' }]
   ],
   themeConfig: {
     nav: [
