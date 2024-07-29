@@ -11,7 +11,7 @@
 
 - [GitHub Pages](https://kawamataryo.github.io/resume/)  
 - [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
+- [File](https://github.com/kawamataryo/resume/blob/master/docs/index.md)  
 ## Features
 
 ### 💅 Lint text
@@ -53,5 +53,3 @@ Automatically generate issues every three months with GitHub Actions Schedules t
 
 To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
 To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
-
-

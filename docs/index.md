@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # 職務経歴書
 
 ## 基本情報
@@ -13,12 +17,12 @@
 
 ## 各種アカウント
 
-<p>
-<a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+<p style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,7 +43,7 @@
 
 ### 言語
 
-<p>
+<p style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
@@ -51,7 +55,7 @@
 
 ### フレームワーク・その他
 
-<p>
+<p style="display: flex; gap: 8px; flex-wrap: wrap;">
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
@@ -340,7 +344,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 ## 希望条件
 
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
+- 地方在住なのでフルリモートワークでの勤務が前提となります（月数回の出社等は可）
 - 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
+- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
 - 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです

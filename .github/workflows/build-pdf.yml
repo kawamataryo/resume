@@ -10,13 +10,17 @@ jobs:
     name: build pdf and upload release
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/checkout@v4
         with:
-          node-version: '14'
-      - run: npm install
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: 'package.json'
+          cache: 'yarn'
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
       - name: build pdf
-        run: npm run build:pdf
+        run: yarn run build:pdf
       - name: create release
         id: create_release
         uses: actions/create-release@v1
