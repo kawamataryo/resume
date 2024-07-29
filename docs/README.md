@@ -274,8 +274,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   </tbody>
 </table>
 
-#### その他 OSS への後見
-
+#### その他 OSS への貢献
 - **type-challenges のメンバー（日本語ローカライズを担当）**
   - [type-challenges](https://github.com/type-challenges/type-challenges)
 - Raycast 拡張機能の開発
