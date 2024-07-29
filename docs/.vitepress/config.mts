@@ -8,7 +8,7 @@ export default defineConfig({
   head: [
     ['meta', { property: 'og:image', content: 'https://kawamataryo.github.io/resume/images/og.png' }],
     ['meta', { property: 'og:title', content: 'CV of Kawamata Ryo' }],
-    ['meta', { property: 'og:description	', content: 'SWE 川俣 涼の職務経歴書' }],
+    ['meta', { property: 'og:description	', content: 'ソフトウェアエンジニア 川俣 涼の職務経歴書' }],
     ['meta', { property: 'og:url	', content: 'https://kawamataryo.github.io/resume' }]
   ],
   themeConfig: {
