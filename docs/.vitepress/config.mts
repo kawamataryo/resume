@@ -5,6 +5,11 @@ export default defineConfig({
   title: "CV of kawamataRyo",
   description: "Kawamata Ryoの職務経歴書",
   base: '/resume/',
+  head: [
+    ['meta', { property: 'og:image', content: 'https://github.com/kawamataryo/resume/images/og.png' }],
+    ['meta', { property: 'og:title', content: 'CV of Kawamata Ryo' }],
+    ['meta', { property: 'og:description	', content: 'SWE 川俣 涼の職務経歴書' }]
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
