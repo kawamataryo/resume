@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CV of kawamataRyo",
   description: "Kawamata Ryoの職務経歴書",
+  base: '/resume/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
