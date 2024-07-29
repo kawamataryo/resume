@@ -15,9 +15,10 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
     ],
-
     sidebar: [],
-
+    outline: {
+      level: [2, 3]
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kawamataryo/resume' }
     ],
