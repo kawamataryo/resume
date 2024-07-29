@@ -84,18 +84,16 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - 数十万行規模のモノリスアプリケーションの開発・保守を担当
     - 機能単位でフロントエンドから、バックエンド開発、一部インフラ構築を横断して担当
   - 開発生産性向上のための取り組み
-    - サブプロジェクトとして開発生産性を向上させるための大規模なリファクタリングを並行して実施
-      - [ライブラリアップデートの仕組み構築](https://zenn.dev/ryo_kawamata/articles/6f878891cf0c51)
-      - [フロントエンドのTypeScript化](https://speakerdeck.com/kawamataryo/reinforcing-the-type)
-      - Vue3へのアップデート
-      - JestからVitestへの移行（進行中）
-      - WebpackからViteへの移行（進行中）
-      - VuexからTanStackQueryへの状態管理の移行（進行中）
+    - [ライブラリアップデートの仕組み構築](https://zenn.dev/ryo_kawamata/articles/6f878891cf0c51)
+    - [フロントエンドのTypeScript化](https://speakerdeck.com/kawamataryo/reinforcing-the-type)
+    - Vue2からVue3へのアップデート
+    - JestからVitestへの移行（進行中）
+    - webpackからViteへの移行（進行中）
+    - VuexからTanStackQueryへの状態管理の移行（進行中）
   - フロントエンド改善チームのリード（改善チームの組成、課題の整理・実装）
-    - フロントエンド開発基盤の整備
-      - [ビジュアルリグレッションテストの導入](https://zenn.dev/ryo_kawamata/articles/percy-cypress)
-      - [パフォーマンス計測基盤の導入](https://zenn.dev/ryo_kawamata/articles/webperf-watcher)
-      - [コードベース健全性の評価基盤の導入](https://zenn.dev/ryo_kawamata/articles/create-frontend-dashboard)
+    - [ビジュアルリグレッションテストの導入](https://zenn.dev/ryo_kawamata/articles/percy-cypress)
+    - [パフォーマンス計測基盤の導入](https://zenn.dev/ryo_kawamata/articles/webperf-watcher)
+    - [コードベース健全性の評価基盤の導入](https://zenn.dev/ryo_kawamata/articles/create-frontend-dashboard)
     - 社内勉強会の主催（Vue3勉強会など）
   - 社内課題を解決するSlack Bot開発
     - [社内用語辞典活性化のためのBot](https://zenn.dev/ryo_kawamata/articles/tell-me-bot-slack-app)
