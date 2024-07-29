@@ -27,50 +27,18 @@ layout: doc
 
 ---
 
-## 保有スキル
+## 職務経歴（サマリー）
 
-- TypeScript, React, Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測）
-- ユニットテストを基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラム開発の進行
-
----
-
-## 技術スタック
-
-### 言語
-
-<p style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-</p>
-
-### フレームワーク・その他
-
-<p style="display: flex; gap: 8px; flex-wrap: wrap;">
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-</p>
+|会社名|期間|業務内容|
+|---|---|---|
+|[LAPRAS株式会社](https://corp.lapras.com/)|2021/03〜現在|AI ヘッドハンティングサービス LAPRAS SCOUT の開発・運用|
+|[株式会社Misoca](https://www.yayoi-kk.co.jp/)|2019/04〜2021/02|クラウド請求書管理サービス Misoca の開発・運用|
+|[エムスリー株式会社](https://corporate.m3.com/)|2018/02〜2019/03|医療従事者向け総合医療情報サービス m3.com の開発・運用|
+|水戸市消防本部|2012/04〜2017/12|消防士として消防活動、救急活動|
 
 ---
 
-## 職務経歴詳細
+## 職務経歴（詳細）
 
 ### LAPRAS株式会社（2021/03〜現在）
 
@@ -334,17 +302,61 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 ---
 
-## 意欲・興味
+## 技術スタック
 
-- フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
+### 言語
+
+|言語|業務経験|
+|---|---|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|6年|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|6年|
+|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|3年|
+|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
+|<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />|1年|
+|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
+|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
+
+
+### フレームワーク・その他
+
+|フレームワーク|業務経験|
+|---|---|
+|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|6年|
+|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|3年|
+|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|3年|
+|<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />|3年|
+|<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|1年|
+|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
+|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
+|<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />|1年|
+|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
 
 ---
 
-## 希望条件
+## 保有スキル
 
-- 地方在住なのでフルリモートワークでの勤務が前提となります（月数回の出社等は可）
+- TypeScript, React, Vue.js でのフロントエンド開発・設計
+- レガシーコードからモダンなフロントエンドへのリファクタリング
+- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測）
+- ユニットテストを基本とした保守性と再利用性を意識したコーディング
+- Ruby on Rails, Django でのサーバーサイド開発
+- 勉強会、社内学習のコミュニティ形成
+- アジャイル、スクラム開発の進行
+- 未経験技術への迅速なキャッチアップ、アウトプット
+
+## 意欲・興味
+
+- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
+- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
 - 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
 - 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+
+---
+
+## 就業条件
+
+- 勤務形態: フルリモートワーク（月数回程度の出社は可）
+
+---
