@@ -22,7 +22,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/kawamataryo/resume' }
     ],
     editLink: {
-      pattern: 'https://github.com/kawamataryo/resume/edit/main/docs/:path'
+      pattern: 'https://github.com/kawamataryo/resume/edit/master/docs/:path'
     }
   }
 })
