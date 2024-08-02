@@ -1,8 +1,10 @@
 # kawamataryo's resume
+https://img.shields.io/github/actions/workflow/status/<user>/<repo>/test.yml?branch=main
 
-[![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22lint+text%22)
-[![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22build+pdf%22)
-[![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22create+issue%22)
+
+[![textlint](https://img.shields.io/github/actions/workflow/status/kawamataryo/resume/lint%20text.yml?branch=main?label=textlint&logo=github&color=yellow)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22lint+text%22)
+[![build pdf](https://img.shields.io/github/actions/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf.yml?branch=main&logo=github)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22build+pdf%22)
+[![create issue](https://img.shields.io/github/actions/workflow/status/kawamataryo/resume/create%20issue.yml?branch=main?label=create%20issue&logo=github&color=orange)](https://github.com/kawamataryo/resume/actions?query=workflow%3A%22create+issue%22)
 [![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)](https://github.com/kawamataryo/resume/releases)
 
 [ English | [日本語](https://github.com/kawamataryo/resume/blob/master/README.ja.md) ]
