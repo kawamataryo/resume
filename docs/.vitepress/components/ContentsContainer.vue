@@ -61,7 +61,7 @@ const hideAfterBackdrop = computed(() => arrivedState.right);
   position: absolute;
   cursor: pointer;
   top: 0;
-  width: 150px;
+  width: 80px;
   height: 100%;
 }
 </style>
