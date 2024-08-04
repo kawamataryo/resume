@@ -12,7 +12,7 @@
         </template>
       </article>
       <article class="shrink-0 px-5 grid place-items-center bg-opacity-50">
-        <a class="" :href="moreLink">
+        <a class="" :href="moreLink" target="_blank">
           👉 more...
         </a>
       </article>
