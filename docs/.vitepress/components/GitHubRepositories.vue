@@ -6,7 +6,6 @@
           <th>Repository</th>
           <th>languages</th>
           <th>Stars</th>
-          <th>Forks</th>
         </tr>
       </thead>
       <tbody>
@@ -23,7 +22,6 @@
             </div>
           </td>
           <td>⭐ {{ repository.stargazers_count }}</td>
-          <td>{{ repository.forks }}</td>
         </tr>
       </tbody>
     </table>
