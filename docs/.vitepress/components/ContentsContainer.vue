@@ -23,7 +23,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps, computed, ref } from 'vue'
+import { computed, ref } from 'vue'
 import { useScroll } from '@vueuse/core';
 
 type content = {
