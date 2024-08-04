@@ -2,6 +2,8 @@
 layout: doc
 ---
 
+
+
 # 職務経歴書
 
 ## 基本情報
@@ -12,6 +14,7 @@ layout: doc
 |生年月日|1989/04/25|
 |居住地|茨城県|
 |最終学歴|立命館大学経営学部卒|
+
 
 ## 各種アカウント
 
@@ -191,110 +194,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 #### 主要リポジトリ
 
-<table>
-  <thead>
-    <tr>
-      <td><b>Projects</b></td>
-      <td><b>Lang / FW</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>sky-follower-bridge</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-61DBFB?style=flat-square&logo=react&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>suppress ts errors</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/v-change-tags-order"><b>V Change Tags Order</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-   <tr>
-      <td><a href="https://github.com/kawamataryo/copy-python-path"><b>Copy Python Path</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-   <tr>
-      <td><a href="https://github.com/kawamataryo/alfred-imagemin"><b>Alfred Imagemin</b></a></td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/tell-me-bot"><b>Tell me bot</b></a></td>
-      <td><img alt="TypeScript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-   <tr>
-      <td><a href="https://github.com/kawamataryo/copy-git-link"><b>copy-git-link</b></a></td>
-      <td><img alt="Kotlin" src="https://img.shields.io/badge/-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-   <tr>
-      <td><a href="https://github.com/kawamataryo/schema2type"><b>Schema2type</b></a></td>
-      <td><img alt="Ruby" src="https://img.shields.io/badge/-CC342D?style=flat-square&logo=Ruby&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+<GitHubRepositories />
 
 #### その他 OSS への貢献
 - **type-challenges のメンバー（日本語ローカライズを担当）**
@@ -321,21 +221,31 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   - 使用技術：TypeScript, React
   - BugFix, 新機能のフロントエンド実装を担当
 
-### 技術記事投稿
+### アウトプット
 
-- **Zenn**
-  - サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE
-  - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
-- **Qiita**
-  - 消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM
-  - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-- **note**
-  - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
-  - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+#### Zenn
+サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE  
+[https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 
-### 登壇履歴
+<ZennArticles />
 
-- [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+#### Qiita
+消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM  
+[https://qiita.com/ryo2132](https://qiita.com/ryo2132)
+
+<QiitaArticles />
+
+#### note
+主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね  
+[https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+
+<NoteArticles />
+
+#### SpeakerDeck
+勉強会でのスライド資料を公開  
+[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+
+<SpeakerDeckSlides />
 
 ### 勉強会の主催
 

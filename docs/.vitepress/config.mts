@@ -34,5 +34,6 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/kawamataryo/resume/edit/master/docs/:path'
     }
-  }
+  },
+  lastUpdated: true,
 })
