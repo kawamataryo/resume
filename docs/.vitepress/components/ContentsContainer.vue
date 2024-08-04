@@ -1,19 +1,19 @@
 <template>
   <div class="relative">
-    <div class="overflow-x-auto whitespace-nowrap" ref="scrollContainer">
-      <article v-for="content in contents" :key="content.url" class="inline-block px-2">
+    <div class="overflow-x-auto whitespace-nowrap flex" ref="scrollContainer">
+      <article v-for="content in contents" :key="content.url" class="shrink-0 px-2">
         <template v-if="content.ogImage">
         <a :href="content.url" target="_blank" rel="noopener noreferrer" class="relative">
-          <div v-if="content.isOverlayTitle" class="absolute w-full h-full flex items-center justify-center bg-[rgba(0,0,0,0.3)] p-4">
+          <img :src="content.ogImage" :alt="content.title" class="h-32 w-auto object-cover rounded-lg shadow-md"/>
+          <div v-if="content.isOverlayTitle" class="absolute w-full h-full flex justify-center items-center bg-[rgba(0,0,0,0.4)] p-4 top-0 left-0">
             <p class="truncate text-white">{{ content.title }}</p>
           </div>
-          <img :src="content.ogImage" :alt="content.title" class="h-32 w-auto object-cover rounded-lg shadow-md"/>
         </a>
         </template>
       </article>
-      <article class="inline-block px-2">
+      <article class="shrink-0 px-5 grid place-items-center bg-opacity-50">
         <a class="" :href="moreLink">
-            and more...
+          👉 more...
         </a>
       </article>
     </div>
@@ -61,7 +61,7 @@ const hideAfterBackdrop = computed(() => arrivedState.right);
   position: absolute;
   cursor: pointer;
   top: 0;
-  width: 100px;
+  width: 150px;
   height: 100%;
 }
 </style>
