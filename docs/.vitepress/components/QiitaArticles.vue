@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ContentsContainer :contents="contents" />
+    <ContentsContainer :contents="contents" more-link="https://qiita.com/ryo2132" />
   </div>
 </template>
 

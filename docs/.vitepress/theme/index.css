@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-rgb: 255, 255, 255;
+}
+
+.dark {
+  --vp-c-bg: #1b1b1f;
+  --vp-c-bg-rgb: 27, 27, 31;
+}

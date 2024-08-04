@@ -17,7 +17,7 @@
             </a>
           </td>
           <td>
-            <div class="flex gap-2">
+            <div class="flex gap-2 flex-wrap">
               <img v-for="language in repository.languages" :key="language.name" :src="deviconSrc(language.name)"
                 :alt="language.name" class="w-4" />
             </div>

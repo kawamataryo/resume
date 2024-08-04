@@ -190,21 +190,31 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 ## 業務外活動
 
-### OSS・個人開発活動
-
-#### 主要リポジトリ
+### OSS
 
 <GitHubRepositories />
 
-#### その他 OSS への貢献
-- **type-challenges のメンバー（日本語ローカライズを担当）**
-  - [type-challenges](https://github.com/type-challenges/type-challenges)
-- Raycast 拡張機能の開発
-  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
-  - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
-- Hasura Console の TypeScript 化・Issue の対応
-- Gatsby.js の TypeScript 化・ドキュメント翻訳
-- Vue3 のドキュメント翻訳
+### アウトプット
+
+#### Zenn
+[https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
+
+<ZennArticles />
+
+#### Qiita
+[https://qiita.com/ryo2132](https://qiita.com/ryo2132)
+
+<QiitaArticles />
+
+#### note
+[https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+
+<NoteArticles />
+
+#### SpeakerDeck
+[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+
+<SpeakerDeckSlides />
 
 ### 副業
 
@@ -221,32 +231,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   - 使用技術：TypeScript, React
   - BugFix, 新機能のフロントエンド実装を担当
 
-### アウトプット
-
-#### Zenn
-サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE  
-[https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
-
-<ZennArticles />
-
-#### Qiita
-消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM  
-[https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-
-<QiitaArticles />
-
-#### note
-主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね  
-[https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
-
-<NoteArticles />
-
-#### SpeakerDeck
-勉強会でのスライド資料を公開  
-[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
-
-<SpeakerDeckSlides />
-
 ### 勉強会の主催
 
 - **茨城県水戸市にて勉強会を企画・運営**
@@ -257,6 +241,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
   - Go ではじめるインタプリタ輪読回
 
+
 ### その他
 
 - **Podcast**
@@ -265,3 +250,8 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
   - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
 - **JobPics**
   - [消防士からエンジニアへ、究極の「未経験転職」3つのポイント | JobPicks](https://job.newspicks.com/articles/849)
+- **type-challenges のメンバー（日本語ローカライズを担当）**
+  - [type-challenges](https://github.com/type-challenges/type-challenges)
+- Raycast 拡張機能の開発
+  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
+  - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
