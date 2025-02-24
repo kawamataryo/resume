@@ -26,9 +26,59 @@ layout: doc
   <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
+
+
+## 保有スキル
+
+- Webアプリケーションの設計・開発・運用（フロントエンド、バックエンド）
+- フロントエンドへの技術的負債解消・リアーキテクチャ
+- フロントエンド開発基盤の整備（ビルド、テスト環境、パフォーマンス計測）
+- 社内業務を効率化するChatBotの開発・運用
+- 勉強会、社内学習のコミュニティ形成
+- アジャイル、スクラムの推進
+- 技術記事、動画による技術広報の推進
+- OSS（ユーザー数10万人超のブラウザ拡張など）の開発・運用
+
+
+## 技術スタック
+
+<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+
+<div>
+
+|言語|業務経験|
+|---|---|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|6年|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|6年|
+|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|3年|
+|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
+|<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />|1年|
+|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
+|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
+
+</div>
+
+<div>
+
+|フレームワーク|業務経験|
+|---|---|
+|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|6年|
+|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|3年|
+|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|3年|
+|<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />|3年|
+|<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|1年|
+|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
+|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
+|<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />|1年|
+|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
+
+</div>
+</div>
+
 ## 職務経歴
 
-:::details 2021/03〜現在      [LAPRAS株式会社](https://corp.lapras.com/)
+:::details 2021/03〜現在      [LAPRAS株式会社](https://corp.lapras.com/) {open}
 
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計・実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
@@ -68,7 +118,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - [公開APIの利用例としてのライブラリの構築](https://zenn.dev/ryo_kawamata/articles/6e161be042f3d1)
 :::
 
-:::details 2019/04〜2021/03 [株式会社Misoca](https://www.yayoi-kk.co.jp/)
+:::details 2019/04〜2021/03 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
 
 クラウド請求書管理サービス Misoca の開発・運用。
 
@@ -88,7 +138,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 :::
 
-:::details 2018/02〜2019/03 [エムスリー株式会社](https://corporate.m3.com/)
+:::details 2018/02〜2019/03 [エムスリー株式会社](https://corporate.m3.com/) {open}
 
 医療従事者向け総合医療情報サービス m3.com の開発・運用。
 
@@ -105,7 +155,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 :::
 
-:::details 2012/04〜2017/12 水戸市消防本部
+:::details 2012/04〜2017/12 水戸市消防本部 {open}
 
 消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
 
@@ -121,53 +171,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
 :::
 
-## 技術スタック
-
-<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
-
-<div>
-
-|言語|業務経験|
-|---|---|
-|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|6年|
-|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|6年|
-|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|3年|
-|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
-|<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />|1年|
-|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
-|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
-
-</div>
-
-<div>
-
-|フレームワーク|業務経験|
-|---|---|
-|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|6年|
-|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|3年|
-|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|3年|
-|<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />|3年|
-|<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|1年|
-|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
-|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
-|<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />|1年|
-|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
-
-</div>
-</div>
-
-## スキル
-
-- TypeScript, React, Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測 etc.）
-- ユニットテストを基本とした保守性と再利用性を意識したコーディング
-- Railsライクフレームワークを使ったサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラム開発の進行
-- 未経験技術への迅速なキャッチアップ、アウトプット
-
 ## 意欲・興味
 
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
@@ -175,7 +178,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 - 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - どうしたら使いやすいデザインになるか、ユーザーの視点に立って考えることが好きです
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境だと能力を発揮しやすいです
 
 ## 就業条件
 
@@ -189,6 +192,11 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 <GitHubRepositories />
 
 ### アウトプット
+
+#### SpeakerDeck
+[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+
+<SpeakerDeckSlides />
 
 #### Zenn
 [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
@@ -205,10 +213,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 <NoteArticles />
 
-#### SpeakerDeck
-[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
-
-<SpeakerDeckSlides />
 
 ### 副業
 
