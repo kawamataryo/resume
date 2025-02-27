@@ -11,3 +11,7 @@
   --vp-c-bg: #1b1b1f;
   --vp-c-bg-rgb: 27, 27, 31;
 }
+
+.details summary {
+  font-size: 1rem;
+}
