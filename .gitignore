@@ -5,3 +5,4 @@ node_modules
 .vscode
 docs/.vitepress/cache
 docs/.vitepress/dist
+.mastra

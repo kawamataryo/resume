@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   stylesheet: "./pdf-configs/style.css",
   body_class: "markdown-body",
   marked_options: {

@@ -8,7 +8,9 @@
     "build:pdf": "md-to-pdf docs/index.md --config-file ./pdf-configs/config.js",
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "mastra:dev": "mastra dev -d ./scripts/mastra",
+    "mastra:build": "mastra build -d ./scripts/mastra"
   },
   "repository": {
     "type": "git",
@@ -18,8 +20,11 @@
   "author": "Ryo Kawamata <ba068082@gmail.com>",
   "devDependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
+    "@types/node": "^22.15.27",
     "autoprefixer": "^10.4.20",
+    "dotenv": "latest",
     "husky": "^5.0.0",
+    "mastra": "^0.10.1",
     "md-to-pdf": "^5.2.4",
     "postcss": "^8.4.40",
     "sass": "^1.77.8",
@@ -43,15 +48,21 @@
     "textlint-rule-preset-jtf-style": "^2.3.14",
     "textlint-rule-prh": "^6.0.0",
     "textlint-rule-spellcheck-tech-word": "^5.0.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
     "vitepress": "^1.3.1"
   },
   "engines": {
     "node": "22.x"
   },
   "dependencies": {
+    "@ai-sdk/openai": "latest",
+    "@mastra/core": "latest",
+    "@mastra/mcp": "^0.10.1",
     "@vueuse/core": "^10.11.0",
     "devicon": "^2.16.0",
     "ofetch": "^1.3.4",
-    "open-graph-scraper": "^6.7.2"
+    "open-graph-scraper": "^6.7.2",
+    "zod": "latest"
   }
 }
