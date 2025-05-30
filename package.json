@@ -58,7 +58,9 @@
   "dependencies": {
     "@ai-sdk/openai": "latest",
     "@mastra/core": "latest",
+    "@mastra/libsql": "^0.10.0",
     "@mastra/mcp": "^0.10.1",
+    "@modelcontextprotocol/sdk": "^1.12.1",
     "@vueuse/core": "^10.11.0",
     "devicon": "^2.16.0",
     "ofetch": "^1.3.4",
