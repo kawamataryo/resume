@@ -113,6 +113,8 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - [TechBlogの構築](https://tech-blog.lapras.com/)
     - [採用広報としてモブプロ生配信の実施](https://www.youtube.com/watch?v=lI8CjHspGFU&list=PLKbaztxP2P4hMeqQiOgqxVCcJjILnqfFc&ab_channel=LAPRAS%E5%85%AC%E5%BC%8F)
     - [SWE選考課題の整備](https://github.com/lapras-inc/exam-swe-template)
+  - 社内のAI利用促進の推進
+    - [LAPRAS MCP Server](https://github.com/lapras-inc/lparas-mcp-server)の構築
   - その他
     - [VuePress + esa によるドキュメントサイトの構築](https://zenn.dev/ryo_kawamata/articles/4bf52f97165058)
     - [公開APIの利用例としてのライブラリの構築](https://zenn.dev/ryo_kawamata/articles/6e161be042f3d1)
