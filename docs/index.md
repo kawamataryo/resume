@@ -15,7 +15,6 @@ layout: doc
 |居住地|茨城県|
 |最終学歴|立命館大学経営学部卒|
 
-
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
