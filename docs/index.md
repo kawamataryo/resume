@@ -3,7 +3,6 @@ layout: doc
 ---
 
 
-
 # 職務経歴書
 
 ## 基本情報
@@ -24,7 +23,6 @@ layout: doc
   <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
   <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
-
 
 
 ## 保有スキル
