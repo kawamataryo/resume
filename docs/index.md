@@ -36,7 +36,6 @@ layout: doc
 - 技術記事、動画による技術広報の推進
 - OSS（ユーザー数10万人超のブラウザ拡張など）の開発・運用
 
-
 ## 技術スタック
 
 <div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
