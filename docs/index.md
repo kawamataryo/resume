@@ -120,7 +120,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 :::details 2019/04〜2021/03 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
 
-
 クラウド請求書管理サービス Misoca の開発・運用。
 
 - **プロジェクト規模：**
