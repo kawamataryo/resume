@@ -118,7 +118,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - [公開APIの利用例としてのライブラリの構築](https://zenn.dev/ryo_kawamata/articles/6e161be042f3d1)
 :::
 
-:::details 2019/04〜2021/03 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
+:::details 2019/04〜2021/02 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
 
 クラウド請求書管理サービス Misoca の開発・運用。
 
