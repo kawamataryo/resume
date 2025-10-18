@@ -27,13 +27,10 @@ layout: doc
 ## 保有スキル
 
 - Webアプリケーションの設計・開発・運用（フロントエンド、バックエンド）
-- フロントエンドへの技術的負債解消・リアーキテクチャ
-- フロントエンド開発基盤の整備（ビルド、テスト環境、パフォーマンス計測）
-- 社内業務を効率化するChatBotの開発・運用
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの推進
-- 技術記事、動画による技術広報の推進
-- OSSの開発・運用（[ユーザー数10万人超のブラウザ拡張](https://www.sky-follower-bridge.dev/)など）
+- フロントエンドの技術的負債解消・リアーキテクチャ
+- フロントエンド開発基盤の整備
+- 技術記事による技術広報の推進
+- カジュアル面談による採用活動
 
 
 ## 技術スタック
@@ -44,13 +41,10 @@ layout: doc
 
 |言語|業務経験|
 |---|---|
-|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|6年|
-|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|6年|
-|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|3年|
-|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
-|<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />|1年|
-|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
-|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|5年|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|2年|
+|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|1年|
+|<img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white" />|1年|
 
 </div>
 
@@ -58,16 +52,13 @@ layout: doc
 
 |フレームワーク|業務経験|
 |---|---|
-|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|6年|
-|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|3年|
-|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|3年|
-|<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />|3年|
-|<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|1年|
-|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
-|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
-|<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />|1年|
+|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|5年|
 |<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
+|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|1年|
+|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|1年|
+|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|1年|
+
 
 </div>
 </div>
