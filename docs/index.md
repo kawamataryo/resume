@@ -9,19 +9,18 @@ layout: doc
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|居住地|茨城県|
-|最終学歴|立命館大学経営学部卒|
+|氏名|井上 裕太（Inoue Yuta）|
+|生年月日|1997/11/24|
+|居住地|東京都|
+|最終学歴|和歌山大学経済学部卒|
 
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-  <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+  <a href="https://github.com/iyuta1124" target="_blank"><img alt="Github" src="https://img.shields.io/badge/iyuta1124-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://qiita.com/iyuta1124" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/iyuta1124-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/iyuta1124" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/iyuta1124-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/iyuta1124" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/iyuta1124-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 
