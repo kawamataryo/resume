@@ -65,47 +65,29 @@ layout: doc
 
 ## 職務経歴
 
-:::details 2021/03〜現在      [LAPRAS株式会社](https://corp.lapras.com/) {open}
+:::details 2025/01〜現在      [homie株式会社](https://homie.co.jp/) {open}
 
-AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
-開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計・実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
-
-※ 2023/03〜2024/03は第二子育児のため育休を取得
+不動産反響対応・営業支援サービスHOTLEADの開発。
+開発リソースが限られる中で、ユーザーの利便性を高める機能の設計・実装を主導。得意とするフロントエンド開発の経験を活かして、主にフロントエンドの改善活動をリード。
 
 - **プロジェクト規模：**
   - 3〜5 人チームでのスクラム開発
 - **使用技術：**
-  - TypeScript, Vue.js, Python, Django, gRPC, Docker, Kubernetes, CircleCI, GitHub Actions
+  - TypeScript, Nuxt3, Go, Echo, Docker, GitHub Actions
 - **担当プロジェクト：**
-  - LAPRAS・LAPRAS SCOUTの開発・保守
-    - 数十万行規模のモノリスアプリケーションの開発・保守を担当
-    - 機能単位でフロントエンドから、バックエンド開発、一部インフラ構築を横断して担当
-  - 開発生産性向上のための取り組み
-    - [ライブラリアップデートの仕組み構築](https://zenn.dev/ryo_kawamata/articles/6f878891cf0c51)
-    - [フロントエンドのTypeScript化](https://speakerdeck.com/kawamataryo/reinforcing-the-type)
-    - Vue2からVue3へのアップデート
-    - JestからVitestへの移行（進行中）
-    - webpackからViteへの移行（進行中）
-    - VuexからTanStackQueryへの状態管理の移行（進行中）
+  - HOTLEADの開発・保守
+    - モノリスアプリケーションの開発・保守を担当
+    - 機能単位でフロントエンドから、バックエンド開発を横断して担当
+    - 社内問い合わせ対応(ヒアリングから課題解決まで一貫して対応)
   - フロントエンド改善チームのリード（改善チームの組成、課題の整理・実装）
-    - [ビジュアルリグレッションテストの導入](https://zenn.dev/ryo_kawamata/articles/percy-cypress)
-    - [パフォーマンス計測基盤の導入](https://zenn.dev/ryo_kawamata/articles/webperf-watcher)
-    - [コードベース健全性の評価基盤の導入](https://zenn.dev/ryo_kawamata/articles/create-frontend-dashboard)
-    - 社内勉強会の主催（Vue3勉強会など）
-  - 社内課題を解決するSlack Bot開発
-    - [社内用語辞典活性化のためのBot](https://zenn.dev/ryo_kawamata/articles/tell-me-bot-slack-app)
-    - [ChatGPT問い合わせBot](https://zenn.dev/ryo_kawamata/articles/56ea2484320def)
-    - AWS EC2開発環境の起動・停止Bot
-  - エンジニア採用への貢献
-    - [TechBlogの構築](https://tech-blog.lapras.com/)
-    - [採用広報としてモブプロ生配信の実施](https://www.youtube.com/watch?v=lI8CjHspGFU&list=PLKbaztxP2P4hMeqQiOgqxVCcJjILnqfFc&ab_channel=LAPRAS%E5%85%AC%E5%BC%8F)
-    - [SWE選考課題の整備](https://github.com/lapras-inc/exam-swe-template)
-  - 社内のAI利用促進の推進
-    - [LAPRAS MCP Server](https://github.com/lapras-inc/lparas-mcp-server)の構築
-    - [resume-sync-action](https://github.com/lapras-inc/resume-sync-action)の開発
-  - その他
-    - [VuePress + esa によるドキュメントサイトの構築](https://zenn.dev/ryo_kawamata/articles/4bf52f97165058)
-    - [公開APIの利用例としてのライブラリの構築](https://zenn.dev/ryo_kawamata/articles/6e161be042f3d1)
+    - HOTLEAD主要画面のデザインアップデートPJのPMを担当
+    - 設計、タスク分割、進捗管理、実装まで一貫して対応
+  - 開発生産性向上のための取り組み
+    - Storybookの導入
+    - [NuxtLayersによる共通コンポーネント・ロジックの再利用基盤構築（進行中)](https://qiita.com/iyuta1124/private/8e9b80170a77841792d3)
+    - [本番環境誤操作防止用Chrome拡張機能の作成・導入](https://qiita.com/iyuta1124/private/4932183e7694d616aa53)
+    - ChatGPT連携によるCL新規導入設定の半自動化プロセス構築
+
 :::
 
 :::details 2019/04〜2021/02 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
