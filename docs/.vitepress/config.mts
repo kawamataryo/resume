@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CV of kawamataRyo",
-  description: "Kawamata Ryoの職務経歴書",
+  title: "CV of Yuta Inoue",
+  description: "Yuta Inoueの職務経歴書",
   base: '/resume/',
   head: [
     // favicons
@@ -16,8 +16,8 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     // ogp
     ['meta', { property: 'og:image', content: 'https://kawamataryo.github.io/resume/images/og.png' }],
-    ['meta', { property: 'og:title', content: 'CV of Kawamata Ryo' }],
-    ['meta', { property: 'og:description', content: 'ソフトウェアエンジニア 川俣 涼の職務経歴書' }],
+    ['meta', { property: 'og:title', content: 'CV of Yuta Inoue' }],
+    ['meta', { property: 'og:description', content: 'ソフトウェアエンジニア 井上 裕太の職務経歴書' }],
     ['meta', { property: 'og:url	', content: 'https://kawamataryo.github.io/resume' }]
   ],
   themeConfig: {
