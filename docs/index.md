@@ -75,7 +75,19 @@ layout: doc
 
 ## 職務経歴
 
-:::details 2021/03〜現在      [LAPRAS株式会社](https://corp.lapras.com/) {open}
+:::details 2026/02〜現在      [Nstock株式会社](https://nstock.co.jp/)
+
+スタートアップ向けのストックオプション管理サービスの開発。
+
+- **担当プロジェクト：**
+  - 登記機能の開発
+  - 行使機能の改善
+  - VRT（ビジュアルリグレッションテスト）の追加
+  - AI開発における開発とBizの情報格差の改善（[UI Change Notifier](https://zenn.dev/nstock/articles/ui-change-notifier)）
+
+:::
+
+:::details 2021/03〜2026/01      [LAPRAS株式会社](https://corp.lapras.com/)
 
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計・実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
@@ -118,7 +130,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
     - [公開APIの利用例としてのライブラリの構築](https://zenn.dev/ryo_kawamata/articles/6e161be042f3d1)
 :::
 
-:::details 2019/04〜2021/02 [株式会社Misoca](https://www.yayoi-kk.co.jp/) {open}
+:::details 2019/04〜2021/02 [株式会社Misoca](https://www.yayoi-kk.co.jp/)
 
 クラウド請求書管理サービス Misoca の開発・運用。
 
@@ -138,7 +150,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 :::
 
-:::details 2018/02〜2019/03 [エムスリー株式会社](https://corporate.m3.com/) {open}
+:::details 2018/02〜2019/03 [エムスリー株式会社](https://corporate.m3.com/)
 
 医療従事者向け総合医療情報サービス m3.com の開発・運用。
 
@@ -155,7 +167,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 :::
 
-:::details 2012/04〜2017/12 水戸市消防本部 {open}
+:::details 2012/04〜2017/12 水戸市消防本部
 
 消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
 
@@ -212,7 +224,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
 
 <NoteArticles />
-
 
 ### 副業
 
