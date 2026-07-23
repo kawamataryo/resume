@@ -83,7 +83,7 @@ layout: doc
   - 登記機能の開発
   - 行使機能の改善
   - VRT（ビジュアルリグレッションテスト）の追加
-  - AI開発における開発とBizの情報格差の改善（[UI Change Notifier](https://zenn.dev/nstock/articles/ui-change-notifier)）
+  - [AI開発における開発とBizの情報格差の改善UI](https://zenn.dev/nstock/articles/ui-change-notifier)
 
 :::
 
